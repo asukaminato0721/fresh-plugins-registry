@@ -98,6 +98,31 @@
       ],
       "repository": "https://github.com/sinelaw/fresh-plugins#languages/smtlib2",
       "latest_version": "0.1.0"
+    },
+    "linker-script": {
+      "description": "GNU linker script syntax highlighting",
+      "author": "asukaminato0721",
+      "license": "MIT",
+      "keywords": [
+        "linker",
+        "ld",
+        "lds",
+        "embedded"
+      ],
+      "repository": "https://github.com/sinelaw/fresh-plugins#languages/linker-script",
+      "latest_version": "0.1.0"
+    },
+    "ssh-config": {
+      "description": "OpenSSH client configuration syntax highlighting and file detection",
+      "author": "asukaminato0721",
+      "license": "MIT",
+      "keywords": [
+        "ssh",
+        "openssh",
+        "config"
+      ],
+      "repository": "https://github.com/sinelaw/fresh-plugins#languages/ssh-config",
+      "latest_version": "0.1.0"
     }
   }
 }
